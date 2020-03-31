@@ -1,0 +1,12 @@
+C:\Users\jamie\Source\Repos\GitDiff\bin\Debug\GitDiff.exe.config
+C:\Users\jamie\Source\Repos\GitDiff\bin\Debug\GitDiff.exe
+C:\Users\jamie\Source\Repos\GitDiff\bin\Debug\GitDiff.pdb
+C:\Users\jamie\Source\Repos\GitDiff\obj\Debug\GitDiff.csprojAssemblyReference.cache
+C:\Users\jamie\Source\Repos\GitDiff\obj\Debug\GitDiff.exe
+C:\Users\jamie\Source\Repos\GitDiff\obj\Debug\GitDiff.pdb
+C:\Users\jamie\OneDrive\Shared Repos\GitDiff\obj\Debug\GitDiff.csprojAssemblyReference.cache
+C:\Users\jamie\OneDrive\Shared Repos\GitDiff\obj\Debug\GitDiff.exe
+C:\Users\jamie\OneDrive\Shared Repos\GitDiff\obj\Debug\GitDiff.pdb
+C:\Users\jamie\OneDrive\Shared Repos\GitDiff\bin\Debug\GitDiff.exe.config
+C:\Users\jamie\OneDrive\Shared Repos\GitDiff\bin\Debug\GitDiff.exe
+C:\Users\jamie\OneDrive\Shared Repos\GitDiff\bin\Debug\GitDiff.pdb
